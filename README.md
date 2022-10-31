@@ -21,3 +21,5 @@ Airdollars is a fork of Bitcoin to experiment with blockchain fundamentals and d
 <img width="856" alt="Screenshot 2022-10-24 at 08 49 39" src="https://user-images.githubusercontent.com/107536903/197475489-cdd5b942-8b86-47f8-94bf-efbacb42fe7b.png">
 
 ## [Reference Youtube walkthrough for XQuartz](https://youtu.be/cNDR6Z24KLM)
+
+## [Supporting Content](https://drive.google.com/drive/folders/1qwG2-2V_Oj3rhh1gOosNZVgxOcXW9iMk?usp=sharing)
